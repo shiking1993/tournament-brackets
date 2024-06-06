@@ -1,0 +1,191 @@
+[
+    {
+        "id": 105,
+        "nextMatchId": 201,
+        "tournamentRoundText": "1",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "participant-1",
+                "name": "Team 1",
+                "resultText": "2",
+                "isWinner": true
+            },
+            {
+                "id": "participant-2",
+                "name": "Team 2",
+                "resultText": "1",
+                "isWinner": false
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "nextMatchId": 201,
+        "tournamentRoundText": "1",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "participant-3",
+                "name": "Team 3",
+                "resultText": "2",
+                "isWinner": true
+            },
+            {
+                "id": "participant-4",
+                "name": "Team 4",
+                "resultText": "1",
+                "isWinner": false
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "nextMatchId": 202,
+        "tournamentRoundText": "1",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "participant-5",
+                "name": "Team 5",
+                "resultText": "2",
+                "isWinner": true
+            },
+            {
+                "id": "participant-6",
+                "name": "Team 6",
+                "resultText": "1",
+                "isWinner": false
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "nextMatchId": 202,
+        "tournamentRoundText": "1",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "participant-7",
+                "name": "Team 7",
+                "resultText": "2",
+                "isWinner": true
+            },
+            {
+                "id": "participant-8",
+                "name": "Team 8",
+                "resultText": "1",
+                "isWinner": false
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "nextMatchId": 303,
+        "tournamentRoundText": "2",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "participant-1",
+                "name": "Team 1",
+                "resultText": "2",
+                "isWinner": true
+            },
+            {
+                "id": "participant-3",
+                "name": "Team 3",
+                "resultText": "1",
+                "isWinner": false
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "nextMatchId": 304,
+        "tournamentRoundText": "2",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "participant-5",
+                "name": "Team 5",
+                "resultText": "2",
+                "isWinner": true
+            },
+            {
+                "id": "participant-7",
+                "name": "Team 7",
+                "resultText": "1",
+                "isWinner": false
+            }
+        ]
+    },
+    {
+        "id": 303,
+        "nextMatchId": 401,
+        "tournamentRoundText": "3",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "participant-1",
+                "name": "Team 1",
+                "resultText": "2",
+                "isWinner": true
+            },
+            {
+                "id": "participant-5",
+                "name": "Team 5",
+                "resultText": "1",
+                "isWinner": false
+            }
+        ]
+    },
+    {
+        "id": 304,
+        "nextMatchId": 401,
+        "tournamentRoundText": "3",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "participant-7",
+                "name": "Team 7",
+                "resultText": "2",
+                "isWinner": true
+            },
+            {
+                "id": "participant-3",
+                "name": "Team 3",
+                "resultText": "1",
+                "isWinner": false
+            }
+        ]
+    },
+    {
+        "id": 401,
+        "nextMatchId": 502,
+        "tournamentRoundText": "4",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "participant-1",
+                "name": "Team 1",
+                "resultText": "2",
+                "isWinner": true
+            },
+            {
+                "id": "participant-7",
+                "name": "Team 7",
+                "resultText": "1",
+                "isWinner": false
+            }
+        ]
+    }
+]

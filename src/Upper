@@ -1,0 +1,20 @@
+import React from 'react';
+import { DoubleEliminationBracket, Match, SvgViewer } from '@g-loot/react-tournament-brackets';
+import upperMatches from './data/upperMatches'; // Проверьте правильность пути
+
+const UpperBracket = () => {
+    const renderMatch = ({ match }) => (
+        <Match match={match} />
+    );
+
+    return (
+        <SvgViewer width={800} height={600}>
+            <DoubleEliminationBracket
+                matches={upperMatches}
+                matchComponent={renderMatch}
+            />
+        </SvgViewer>
+    );
+};
+
+export default UpperBracket;
