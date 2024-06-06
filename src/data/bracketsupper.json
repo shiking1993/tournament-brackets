@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "nextMatchId": 3,
+        "tournamentRoundText": "1",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "14754a1a-932c-4992-8dec-f7f94a339960",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Team-1",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "d16315d4-7f2d-427b-ae75-63a1ae82c0a8",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Team-2",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nextMatchId": 3,
+        "tournamentRoundText": "1",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "14754a1a-932c-4992-8dec-f7f94a339960",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Team-1",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "d16315d4-7f2d-427b-ae75-63a1ae82c0a8",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Team-2",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "nextMatchId": 7,
+        "tournamentRoundText": "1",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "14754a1a-932c-4992-8dec-f7f94a339960",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Team-11",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "d16315d4-7f2d-427b-ae75-63a1ae82c0a8",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Team-22",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "nextMatchId": 7,
+        "tournamentRoundText": "1",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "14754a1a-932c-4992-8dec-f7f94a339960",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Team-1",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "d16315d4-7f2d-427b-ae75-63a1ae82c0a8",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Team-2",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "nextMatchId": 4,
+        "tournamentRoundText": "2",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "14754a1a-932c-4992-8dec-f7f94a339960",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Team-24",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "d16315d4-7f2d-427b-ae75-63a1ae82c0a8",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Team-23",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nextMatchId": 4,
+        "tournamentRoundText": "2",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "14754a1a-932c-4992-8dec-f7f94a339960",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Team-11",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "d16315d4-7f2d-427b-ae75-63a1ae82c0a8",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Team-22",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nextMatchId": 40,
+        "tournamentRoundText": "3",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "14754a1a-932c-4992-8dec-f7f94a339960",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Team-111",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "d16315d4-7f2d-427b-ae75-63a1ae82c0a8",
+                "resultText": "0",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Team-222",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "nextMatchId": null,
+        "tournamentRoundText": "4",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "14754a1a-932c-4992-8dec-f7f94a339960",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Team-22222",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "d16315d4-7f2d-427b-ae75-63a1ae82c0a8",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Team-3333",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    }
+]

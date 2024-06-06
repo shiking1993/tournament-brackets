@@ -1,0 +1,102 @@
+[
+    {
+        "id": "match1",
+        "nextMatchId": "match3",
+        "tournamentRoundText": "1",
+        "startTime": "2021-08-05",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "1",
+                "resultText": "2",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "spacefudg3",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "2",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Alex",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": "match2",
+        "nextMatchId": "match3",
+        "tournamentRoundText": "1",
+        "startTime": "2021-08-05",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "3",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "OmarDev",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "4",
+                "resultText": "2",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "jackieboi",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": "match3",
+        "nextMatchId": "match4",
+        "tournamentRoundText": "2",
+        "startTime": "2021-08-05",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "1",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "spacefudg3",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "5",
+                "resultText": "2",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "SeatoN",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": "match4",
+        "nextMatchId": null,
+        "tournamentRoundText": "Final",
+        "startTime": "2021-08-05",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "5",
+                "resultText": "2",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "SeatoN",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "6",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "GlootOne",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    }
+]

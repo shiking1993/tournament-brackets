@@ -1,0 +1,81 @@
+[
+    {
+        "id": "LB1.1",
+        "nextMatchId": "LB2.1",
+        "tournamentRoundText": "Round 1",
+        "startTime": "2021-08-05",
+        "state": "SCHEDULED",
+        "participants": [
+            {
+                "name": "TBD",
+                "resultText": null,
+                "isWinner": false,
+                "points": 0
+            },
+            {
+                "name": "TBD",
+                "resultText": null,
+                "isWinner": false,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "id": "LB1.2",
+        "nextMatchId": "LB2.2",
+        "tournamentRoundText": "Round 1",
+        "startTime": "2021-08-05",
+        "state": "SCHEDULED",
+        "participants": [
+            {
+                "name": "TBD",
+                "resultText": null,
+                "isWinner": false,
+                "points": 0
+            },
+            {
+                "name": "TBD",
+                "resultText": null,
+                "isWinner": false,
+                "points": 0
+            }
+        ]
+    },
+    {
+        "id": "LB2.1",
+        "nextMatchId": "LB3.1",
+        "tournamentRoundText": "Round 2",
+        "startTime": "2021-08-05",
+        "state": "SCHEDULED",
+        "participants": []
+    },
+    {
+        "id": "LB2.2",
+        "nextMatchId": "LB3.1",
+        "tournamentRoundText": "Round 2",
+        "startTime": "2021-08-05",
+        "state": "SCHEDULED",
+        "participants": []
+    },
+    {
+        "id": "LB3.1",
+        "nextMatchId": null,
+        "tournamentRoundText": "Semi-final",
+        "startTime": "2021-08-05",
+        "state": "SCHEDULED",
+        "participants": [
+            {
+                "name": "TBD",
+                "resultText": null,
+                "isWinner": false,
+                "points": 0
+            },
+            {
+                "name": "TBD",
+                "resultText": null,
+                "isWinner": false,
+                "points": 0
+            }
+        ]
+    }
+]

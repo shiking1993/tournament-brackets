@@ -1,0 +1,277 @@
+[
+    {
+        "id": "lower1",
+        "nextMatchId": "lower3",
+        "tournamentRoundText": "1",
+        "startTime": "2021-05-30",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "team1",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Big Stan",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "team2",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Brave Spirit",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": "lower2",
+        "nextMatchId": "lower3",
+        "tournamentRoundText": "1",
+        "startTime": "2021-05-30",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "team3",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Tommy Vercetti",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "team4",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Marco Reus",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": "lower3",
+        "nextMatchId": "lower5",
+        "tournamentRoundText": "2",
+        "startTime": "2021-05-30",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "team2",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Brave Spirit",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "team4",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Marco Reus",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": "lower4",
+        "nextMatchId": "lower5",
+        "tournamentRoundText": "2",
+        "startTime": "2021-05-30",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "team5",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Godfather",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "team6",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Sommelier",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": "lower5",
+        "nextMatchId": "lower7",
+        "tournamentRoundText": "3",
+        "startTime": "2021-05-30",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "team2",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Brave Spirit",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "team5",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Godfather",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": "lower6",
+        "nextMatchId": "lower7",
+        "tournamentRoundText": "3",
+        "startTime": "2021-05-30",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "team7",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Trinity",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "team8",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Verstappen",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": "lower7",
+        "nextMatchId": "lower9",
+        "tournamentRoundText": "4",
+        "startTime": "2021-05-30",
+        "state": "SCHEDULED",
+        "participants": [
+            {
+                "id": "team2",
+                "resultText": null,
+                "isWinner": false,
+                "status": null,
+                "name": "Brave Spirit",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "team7",
+                "resultText": null,
+                "isWinner": false,
+                "status": null,
+                "name": "Trinity",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": "lower8",
+        "nextMatchId": "lower9",
+        "tournamentRoundText": "4",
+        "startTime": "2021-05-30",
+        "state": "SCHEDULED",
+        "participants": [
+            {
+                "id": "team9",
+                "resultText": null,
+                "isWinner": false,
+                "status": null,
+                "name": "Speaker",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "team10",
+                "resultText": null,
+                "isWinner": false,
+                "status": null,
+                "name": "Nelson Mandela",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": "lower9",
+        "nextMatchId": "lower10",
+        "tournamentRoundText": "5",
+        "startTime": "2021-05-30",
+        "state": "SCHEDULED",
+        "participants": [
+            {
+                "id": "team7",
+                "resultText": null,
+                "isWinner": false,
+                "status": null,
+                "name": "Trinity",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "team9",
+                "resultText": null,
+                "isWinner": false,
+                "status": null,
+                "name": "Speaker",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": "lower10",
+        "nextMatchId": "lowerFinal",
+        "tournamentRoundText": "6",
+        "startTime": "2021-05-30",
+        "state": "SCHEDULED",
+        "participants": [
+            {
+                "id": "team7",
+                "resultText": null,
+                "isWinner": false,
+                "status": null,
+                "name": "Trinity",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "team11",
+                "resultText": null,
+                "isWinner": false,
+                "status": null,
+                "name": "Sommelier",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": "lowerFinal",
+        "nextMatchId": null,
+        "tournamentRoundText": "7",
+        "startTime": "2021-05-30",
+        "state": "SCHEDULED",
+        "participants": [
+            {
+                "id": "team7",
+                "resultText": null,
+                "isWinner": false,
+                "status": null,
+                "name": "Trinity",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "team11",
+                "resultText": null,
+                "isWinner": false,
+                "status": null,
+                "name": "Sommelier",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    }
+]

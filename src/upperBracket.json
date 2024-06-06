@@ -1,0 +1,152 @@
+[
+    {
+        "id": "1",
+        "nextMatchId": "3",
+        "tournamentRoundText": "1",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "team1",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Team 1",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "team2",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Team 2",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "nextMatchId": "3",
+        "tournamentRoundText": "1",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "team3",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Team 3",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "team4",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Team 4",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "nextMatchId": "6",
+        "tournamentRoundText": "2",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "team1",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Team 1",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "team3",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Team 3",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "nextMatchId": "5",
+        "tournamentRoundText": "1",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "team5",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Team 5",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "team6",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Team 6",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "nextMatchId": "6",
+        "tournamentRoundText": "2",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "team5",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Team 5",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "team7",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Team 7",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "nextMatchId": null,
+        "tournamentRoundText": "3",
+        "startTime": "2021-01-01",
+        "state": "SCORE_DONE",
+        "participants": [
+            {
+                "id": "team1",
+                "resultText": "1",
+                "isWinner": true,
+                "status": "PLAYED",
+                "name": "Team 1",
+                "picture": "teamlogos/client_team_default_logo"
+            },
+            {
+                "id": "team5",
+                "resultText": "0",
+                "isWinner": false,
+                "status": "PLAYED",
+                "name": "Team 5",
+                "picture": "teamlogos/client_team_default_logo"
+            }
+        ]
+    }
+]
